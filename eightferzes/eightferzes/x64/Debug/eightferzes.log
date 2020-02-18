@@ -1,0 +1,5 @@
+﻿  eightferzes.cpp
+C:\myproject\eight_ferz_on\eightferzes\eightferzes\eightferzes.cpp(116,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\myproject\eight_ferz_on\eightferzes\eightferzes\eightferzes.cpp(147): warning C4715: dropFerz: значение возвращается не при всех путях выполнения
+C:\myproject\eight_ferz_on\eightferzes\eightferzes\eightferzes.cpp(97): warning C4715: getPairXYDiagonal: значение возвращается не при всех путях выполнения
+  eightferzes.vcxproj -> C:\myproject\eight_ferz_on\eightferzes\x64\Debug\eightferzes.exe
